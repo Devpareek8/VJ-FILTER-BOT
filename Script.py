@@ -238,7 +238,7 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>𝗧𝗛𝗘 𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥 {file_caption}
+    CAPTION = """<b>𝗧𝗛𝗘 𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥 {file_name}
 
 >𝙵𝚒𝚕𝚎 𝚂𝚒𝚣𝚎 ♻️ ➥ {file_size}
 >𝙿𝚘𝚠𝚎𝚛e𝚍 𝙱𝚢 ➥@Theprofessor_01</b>""" 
